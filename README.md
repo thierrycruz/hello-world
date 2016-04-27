@@ -1,2 +1,4 @@
 # hello-world
-my first githib repository
+my first github repository
+
+hey i'm learning something from github
